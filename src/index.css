@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.token.function { color: #6366f1; }
+.token.operator { color: #ef4444; }
+.token.number { color: #059669; }
+.token.string { color: #d97706; }
+.token.punctuation { color: #6b7280; }
